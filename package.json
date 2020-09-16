@@ -1,0 +1,22 @@
+{
+  "name": "modern_portfolio",
+  "version": "1.0.0",
+  "description": "Project work for the course Front-End Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pramojshrestha/LUT_Front-End.git"
+  },
+  "author": "Pramoj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pramojshrestha/LUT_Front-End/issues"
+  },
+  "homepage": "https://github.com/pramojshrestha/LUT_Front-End#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
